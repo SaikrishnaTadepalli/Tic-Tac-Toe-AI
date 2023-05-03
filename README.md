@@ -42,3 +42,9 @@ git clone https://github.com/SaikrishnaTadepalli/Tic-Tac-Toe-AI.git
 
 
 
+
+## License
+
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
+
